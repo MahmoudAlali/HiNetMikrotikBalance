@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+
+    <color name="bestOffersFrame">#E4EDF6</color>
+    <color name="bestOffersStarGreen">#6DC4B3</color>
+    <color name="reser_btn_blue">#4286DB</color>
+    <color name="reser_btn_green">#A0E1D5</color>
+    <color name="reser_blue_txt">#38539A</color>
+    <color name="reser_grey_txt">#606060</color>
+    <color name="new_design_Green">#A1E2D6</color>
+    <color name="personal_account_rose">#aa809a</color>
+    <color name="personal_account_grey">#5b5b5b</color>
+    <color name="startblue">#09c6df</color>
+    <color name="endblue">#0b83e6</color>
+    <color name="blue">#5197D1</color>
+    <color name="blue_end">#0074FF</color>
+    <color name="graylight">#fafafa</color>
+    <color name="graydark">#BBBBBD</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="yellow">#FFEA00</color>
+    <color name="orange">#F47F34</color>
+    <color name="Accent">#DD638C</color>
+    <color name="red">#F01010</color>
+    <color name="brown">#BB702F</color>
+    <color name="prime">#A359C9</color>
+    <color name="bluedark">#1975C2</color>
+    <color name="primeliet">#B399E4</color>
+    <color name="primeliet2">#CEC4E7</color>
+    <color name="primedark">#70179C</color>
+    <color name="gray">#EEEEFC</color>
+    <color name="accent_v3">#ECD5DF</color>
+    <color name="grayll">#EDEDF5</color>
+    <color name="end_gray">#D6DBDE</color>
+    <color name="blue_lite">#00E5FF</color>
+    <color name="dark_blue">#9951FC</color>
+    <color name="green">#00C853</color>
+    <color name="grey">#636263</color>
+    <color name="transGrey">#B3636263</color>
+
+    New Colors Set
+    <color name="transLightestPink">#17941751</color>
+    <color name="transLightPink">#36941751</color>
+    <color name="pink">#7AFF2F92</color>
+    <color name="lightPink">#9CFF8AD8</color>
+    <color name="lightRose">#38FF40FF</color>
+    <color name="transLightRose">#2E941751</color>
+    <color name="transRose">#52941751</color>
+    <color name="lightBordeaux">#C4941751</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+
+    <color name="lightBlue">#690433FF</color>
+    <color name="lightestBlue">#54005493</color>
+    <color name="transLightBlue">#0F7A81FF</color>
+
+    <color name="lightPurple">#80D783FF</color>
+    <color name="Purple">#5C9E4EFA</color>
+    <color name="transLightPurple">#339437FF</color>
+    <color name="transLightPurpleBlue">#4F7A81FF</color>
+    <color name="transPurpleBlue">#787A81FF</color>
+    <color name="PurpleBlue">#409437FF</color>
+
+    <color name="transPurplePink">#59942193</color>
+    <color name="transPink">#3BFF2F92</color>
+    <color name="reservPink">#3B941751</color>
+
+    <color name="empPink">#5C942193</color>
+    <color name="salonPink">#69FF40FF</color>
+    <color name="servPink">#707A81FF</color>
+    <color name="incexcPink">#80D783FF</color>
+    <color name="Pink2">#D894CD</color>
+    <color name="blue2">#A0B1DA</color>
+    <color name="pink3">#2EFF40FF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="light">#FBDEDE</color>
+    <color name="backgroundcolor">#FDFDFE</color>
+    <color name="pink2">#F5D2F3</color>
+    <color name="pink4">#E5D2E5</color>
+    <color name="blue3">#B4B7EE</color>
+    <color name="prpl">#D0A8F1</color>
+    <color name="requestItemBack">#FDFDFE</color>
+    <color name="list_group">#8C83D2</color>
+    <color name="list_group_selected">#D0A8F1</color>
+    <color name="list_group_details">#E2E4F1</color>
+    <color name="header_blue">#D4DAFC</color>
+    <color name="doctorNames">#a5587a</color>
+    <color name="blueClinic">#133277</color>
+    <color name="greenClinic">#73BB89</color>
+    <color name="redClinic">#F01010</color>
+    <color name="lightBlueClinic">#1070AE</color>
+    <color name="translightBlueClinic">#CAA6D2EF</color>
+    <color name="turnsBack">#0F4C75</color>
+</resources>
